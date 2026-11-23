@@ -6,16 +6,15 @@
 
 要は完全に自己満ですね。
 
-### 実行例
-<img width="197" height="172" alt="image" src="https://github.com/user-attachments/assets/5c8ae2dd-bdf5-4149-a92c-a109c2bc4a0e" />
-
-
 ### 編集方法
 - today's yotei checker.vbsをダウンロードする。
 - ファイルを右クリックしてメニューから`メモ帳で開く`をクリック。
 - answer=MsgBox()内のダブルクオーテーションの中（`"今日は◯曜日です"`や`"１限：〇〇"`などの部分）を書き換える。
 
 ちなみに、「,64,」はメッセージボックス内に表示する記号を指定するための数字で、「% vbCrLf &」は改行を意味する。
+
+### 実行例
+<img width="197" height="172" alt="image" src="https://github.com/user-attachments/assets/5c8ae2dd-bdf5-4149-a92c-a109c2bc4a0e" />
 
 ### 注意事項
 
